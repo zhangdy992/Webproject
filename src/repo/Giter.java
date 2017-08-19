@@ -1,5 +1,5 @@
 package repo;
 
 public class Giter {
-int a=1;
+int a=2;//修改前
 }
